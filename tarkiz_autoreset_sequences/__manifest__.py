@@ -10,7 +10,6 @@
     'author': 'Tarkiz.Biz',
     'sequence': 11,
     'maintainer': 'Tarkiz',
-    'website': '',
     'images': ['static/description/tarkiz_image.png'],
     'depends': ['base'],
     'data': ['views/views.xml',
